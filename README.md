@@ -1,9 +1,8 @@
 <div align="center">
 
-  <!-- Header Animado em Banner estilo SVG (Inspiração Savas com estilo próprio) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=220&section=header&text=Levi%20de%20Pontes&fontSize=65&fontColor=00D2FF&animation=twinkling&desc=Back-End%20Developer%20%7C%20AI%20%26%20Automation&descSize=20&descAlign=50&descAlignY=70" width="100%" />
+  <h1>Levi de Pontes Lima Santos</h1>
+  <h3>Back-End Developer | AI & Automation</h3>
 
-  <!-- Typings Animados em Loop -->
   <a href="https://github.com/levipls">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&height=45&lines=Go+%7C+Java+%7C+Python+%7C+Ruby;APIs+REST+%7C+Spring+Boot+%7C+Echo;Automa%C3%A7%C3%B5es+com+n8n+%2B+IA+Generativa" alt="Typing SVG" />
   </a>
@@ -12,7 +11,6 @@
     <b>Construindo ecossistemas back-end de alta performance e automações inteligentes.</b>
   </p>
 
-  <!-- Botões Estilizados e Diretos -->
   <p align="center">
     <a href="https://www.linkedin.com/in/levi-pontes-664152352" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -25,16 +23,16 @@
     </a>
   </p>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a473-11eb-812d-d0053b707449.gif" width="100%" />
-
 </div>
+
+---
 
 ## ⚡ Sobre Mim
 
-- ⚙️ **Foco Profissional:** Desenvolvedor **Back-End** com forte atuação no desenvolvimento de APIs REST em **Go (Golang)**, automação de processos corporativos com **n8n** e integração com CRMs (**HubSpot, Kommo**)[cite: 1].
-- 🤖 **Inteligência Artificial:** Desenvolvimento e implementação de **assistentes generativos de IA** integrados a ecossistemas de negócios e fluxos automatizados[cite: 1].
-- 🔬 **Pesquisa Científica & P&D:** Experiência em **grupos de pesquisa acadêmica**, investigando **Arquitetura de Software** (decomposição de monólitos em Ruby/MOSAIK), Cibersegurança e resiliência de redes sem fio[cite: 1].
-- 🎓 **Formação:** Bacharelado em **Ciência da Computação** — Universidade de Fortaleza (UNIFOR), 2024–2027[cite: 1].
+- ⚙️ **Foco Profissional:** Desenvolvedor **Back-End** com forte atuação no desenvolvimento de APIs REST em **Go (Golang)**, automação de processos corporativos com **n8n** e integração com CRMs (**HubSpot, Kommo**).
+- 🤖 **Inteligência Artificial:** Desenvolvimento e implementação de **assistentes generativos de IA** integrados a ecossistemas de negócios e fluxos automatizados.
+- 🔬 **Pesquisa Científica & P&D:** Experiência em **grupos de pesquisa acadêmica**, investigando **Arquitetura de Software** (decomposição de monólitos em Ruby), Cibersegurança e resiliência de redes sem fio.
+- 🎓 **Formação:** Bacharelado em **Ciência da Computação** — Universidade de Fortaleza (UNIFOR), 2024–2027.
 
 ---
 
@@ -42,10 +40,10 @@
 
 | Cargo / Atuação | Evento / Organização | Projeto / Entrega |
 | :--- | :--- | :--- |
-| 🥇 **Desenvolvedor Power Platform** | **O-Hacka-ta-on — M. Dias Branco** | Aplicação corporativa desenvolvida em Power Apps com modelagem de dados (2º Lugar Geral)[cite: 1]. |
-| 👔 **Líder de Projeto** | **Hackathon Siará Tech Summit** | Liderança de equipe, gestão de prazos e apresentação da solução (Pitch)[cite: 1]. |
-| 📄 **Documentador & Analista** | **Hackathon Acadêmico** | Especificação de requisitos e documentação técnica em LaTeX (Overleaf) e diagramas no Astah[cite: 1]. |
-| 💡 **Desenvolvedor & Participante** | **6º Bootcamp Unifor Hub** | Projeto de inovação com integração de IA focado no setor de varejo e supermercados[cite: 1]. |
+| 🥇 **Desenvolvedor Power Platform** | **O-Hacka-ta-on — M. Dias Branco** | Aplicação corporativa desenvolvida em Power Apps com modelagem de dados (2º Lugar Geral). |
+| 👔 **Líder de Projeto** | **Hackathon Siará Tech Summit** | Liderança de equipe, gestão de prazos e apresentação da solução (Pitch). |
+| 📄 **Documentador & Analista** | **Hackathon Acadêmico** | Especificação de requisitos e documentação técnica em LaTeX (Overleaf) e diagramas no Astah. |
+| 💡 **Desenvolvedor & Participante** | **6º Bootcamp Unifor Hub** | Projeto de inovação com integração de IA focado no setor de varejo e supermercados. |
 
 ---
 
@@ -93,14 +91,13 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=levipls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levipls&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=levipls&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levipls&layout=compact&langs_count=6&theme=dark" alt="Top Languages" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a473-11eb-812d-d0053b707449.gif" width="100%" />
   <p><i>"Engenharia de Software Back-End com foco em performance, resiliência e inovação constante."</i></p>
 </div>
