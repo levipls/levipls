@@ -1,38 +1,43 @@
 <div align="center">
 
-  <h1>Levi de Pontes Lima Santos</h1>
-  <h3>Back-End Developer | AI & Automation</h3>
+  <!-- Header Animado (Onda suave sem texto) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=120&section=header" width="100%" alt="Header Wave" />
 
+  <!-- Digitação animada com seu nome e foco profissional -->
   <a href="https://github.com/levipls">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&height=45&lines=Go+%7C+Java+%7C+Python+%7C+Ruby;APIs+REST+%7C+Spring+Boot+%7C+Echo;Automa%C3%A7%C3%B5es+com+n8n+%2B+IA+Generativa" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=45&lines=Levi+de+Pontes;Desenvolvedor+Back-End;Go+%7C+Java+%7C+Python+%7C+Ruby;APIs+REST+%7C+Spring+Boot+%7C+Echo;Automa%C3%A7%C3%B5es+com+n8n+%2B+IA" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <b>Construindo ecossistemas back-end de alta performance e automações inteligentes.</b>
   </p>
 
+  <!-- Botões de Contato -->
   <p align="center">
     <a href="https://www.linkedin.com/in/levi-pontes-664152352" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:levipontess@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://github.com/levipls">
-      <img src="https://img.shields.io/badge/GitHub_Portfólio-100000?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=levipls&style=for-the-badge&color=7aa2f7&label=Visitas" alt="Visitas" />
   </p>
 
 </div>
 
 ---
 
-## ⚡ Sobre Mim
+## 👨‍💻 Sobre Mim
 
-- ⚙️ **Foco Profissional:** Desenvolvedor **Back-End** com forte atuação no desenvolvimento de APIs REST em **Go (Golang)**, automação de processos corporativos com **n8n** e integração com CRMs (**HubSpot, Kommo**).
-- 🤖 **Inteligência Artificial:** Desenvolvimento e implementação de **assistentes generativos de IA** integrados a ecossistemas de negócios e fluxos automatizados.
-- 🔬 **Pesquisa Científica & P&D:** Experiência em **grupos de pesquisa acadêmica**, investigando **Arquitetura de Software** (decomposição de monólitos em Ruby), Cibersegurança e resiliência de redes sem fio.
-- 🎓 **Formação:** Bacharelado em **Ciência da Computação** — Universidade de Fortaleza (UNIFOR), 2024–2027.
+Sou desenvolvedor focado em **Back-End** e **Automação Inteligente**. Gosto de resolver problemas reais construindo ecossistemas de software escaláveis, desde APIs REST robustas até integrações de inteligência artificial aplicadas ao mercado.
+
+- 🚀 **Desenvolvimento & Automação:** Experiência prática na construção de serviços e APIs utilizando **Go (Echo)**, **Java (Spring Boot)** e **Python**, além de criar fluxos de automação de alto impacto com **n8n** integrados a CRMs (**HubSpot, Kommo, RD Station**).
+- 🤖 **IA Aplicada:** Desenvolvimento de assistentes virtuais e agentes generativos conectados a sistemas corporativos para automatizar processos complexos.
+- 🔬 **Pesquisa & P&D:** Histórico de atuação em grupos de iniciação científica, trabalhando com arquitetura de software, prevenção de colisões de UAVs (drones), análises de segurança em redes sem fio.
+- 🎓 **Formação:** Graduando em **Ciência da Computação** pela Universidade de Fortaleza (**UNIFOR**), com previsão de formação para 2027.
 
 ---
 
@@ -90,14 +95,15 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=levipls&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levipls&layout=compact&langs_count=6&theme=dark" alt="Top Languages" />
-
+  <img src="https://streak-stats.demolab.com/?user=levipls&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </div>
 
 ---
 
+<p align="center">
+  <i>"Engenharia de Software Back-End com foco em performance, resiliência e inovação constante."</i>
+</p>
+
 <div align="center">
-  <p><i>"Engenharia de Software Back-End com foco em performance, resiliência e inovação constante."</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer" alt="Footer Wave" width="100%" />
 </div>
